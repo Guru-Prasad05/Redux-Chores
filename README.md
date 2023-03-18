@@ -1,2 +1,1 @@
-# Redux-Chores
-Created with CodeSandbox
+# Chores
